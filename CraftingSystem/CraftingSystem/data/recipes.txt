@@ -1,0 +1,22 @@
+<recipes>
+    <Recipe Name = "Chamomile Tea" OutputAmount = "1" AmountType = "cup(s)" value="1">
+        <ingredient itemName = "Blue Food Dye" amount = "1" amountType = "bottle(s)">
+        </ingredient>
+        <ingredient itemName = "Yellow Food Dye" amount = "1" amountType = "bottle(s)">
+        </ingredient>
+    </recipe>
+<recipe title = "Orange Food Dye" description = "Makes 2 bottles" yieldAmount = "2" yieldType = "bottle(s)" value="10">
+        <ingredient itemName = "Red Food Dye" amount = "1" amountType = "bottle(s)">
+        </ingredient>
+        <ingredient itemName = "Yellow Food Dye" amount = "1" amountType = "bottle(s)">
+        </ingredient>
+    </recipe>
+<recipe title = "Plain Play Dough" description = "Makes 1 set" yieldAmount = "1" yieldType = "set(s)" value="10">
+        <ingredient itemName = "Flour" amount = "1" amountType = "cup(s)">
+        </ingredient>
+        <ingredient itemName = "Salt" amount = ".25" amountType = "cup(s)">
+        </ingredient>
+        <ingredient  itemName = "Water" amount = ".50" amountType = "cup(s)">
+        </ingredient>
+    </recipe>
+</recipes>

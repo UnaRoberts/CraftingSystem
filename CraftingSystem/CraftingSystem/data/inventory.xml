@@ -1,0 +1,10 @@
+<inventory>
+		<ingredient ItemName = "Water" ItemQuantity="1" AmountType= "cup(s)" ItemPrice = "0.0015"></ingredient>
+		<ingredient ItemName = "Chamomile" ItemQuantity= "1" AmountType= "teaspoon(s)" ItemPrice = "0.0875"></ingredient>
+		<ingredient ItemName = "Chamomile Tea" ItemQuantity= "1" AmountType= "cups(s)" ItemPrice = "0"></ingredient>
+		<ingredient ItemName = "Ashwagandha" ItemQuantity= "0.5" AmountType = "teaspoon(s)" ItemPrice = "0.37" ></ingredient>
+		<ingredient ItemName = "Dried Lavender" ItemQuantity="0.5" AmountType= "teaspoon(s)" ItemPrice = "0.16"></ingredient>
+		<ingredient ItemName = "Lemon Balm" ItemQuantity= "0.5" AmountType = "teaspoon(s)" ItemPrice = "0.44" ></ingredient>
+		<ingredient ItemName = "Sleepy Tea" ItemQuantity= "0" AmountType = "cup(s)" ItemPrice = "0" ></ingredient>
+
+</inventory>

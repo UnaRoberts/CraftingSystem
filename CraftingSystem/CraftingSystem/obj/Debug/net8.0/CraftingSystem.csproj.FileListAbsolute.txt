@@ -1,30 +1,15 @@
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.exe
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.deps.json
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.runtimeconfig.json
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.dll
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.pdb
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.AssemblyInfoInputs.cache
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.AssemblyInfo.cs
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.csproj.CoreCompileInputs.cache
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.sourcelink.json
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.dll
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\refint\CraftingSystem.dll
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.pdb
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.genruntimeconfig.cache
-C:\Users\Roberts002\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\ref\CraftingSystem.dll
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.AssemblyInfoInputs.cache
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.AssemblyInfo.cs
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.csproj.CoreCompileInputs.cache
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.exe
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.deps.json
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.runtimeconfig.json
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.dll
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.pdb
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.sourcelink.json
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.dll
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\refint\CraftingSystem.dll
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.pdb
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.genruntimeconfig.cache
-C:\Users\unaor\OneDrive - Columbia College Chicago\Programming 2\Week_1\CraftingSystem\CraftingSystem\obj\Debug\net8.0\ref\CraftingSystem.dll
+F:\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.exe
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.AssemblyInfoInputs.cache
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.AssemblyInfo.cs
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.csproj.CoreCompileInputs.cache
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.sourcelink.json
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.dll
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\refint\CraftingSystem.dll
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.pdb
+F:\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.deps.json
+F:\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.runtimeconfig.json
+F:\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.dll
+F:\CraftingSystem\CraftingSystem\bin\Debug\net8.0\CraftingSystem.pdb
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\CraftingSystem.genruntimeconfig.cache
+F:\CraftingSystem\CraftingSystem\obj\Debug\net8.0\ref\CraftingSystem.dll

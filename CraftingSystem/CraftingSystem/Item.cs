@@ -10,12 +10,12 @@ namespace CraftingSystem
     public class Item
     {
         public string ItemName { get; set; }
-        public int ItemQuantity { get; set; }
+        public double ItemQuantity { get; set; }
         public double ItemPrice { get; set; }
         public Recipe SubRecipe { get; set; }
-        public string AmountType = "cup(s)"; //defaults to this but can be changed 
+        public string AmountType { get; set; } //= "cup(s)"; //defaults to this but can be changed 
 
-        public Item(string name, int quanitiy, string amountType, double price, Recipe subRecipe = null)
+        public Item(string name, double quanitiy, string amountType, double price, Recipe subRecipe = null)
         {
             ItemName = name; 
             ItemQuantity = quanitiy;
@@ -29,10 +29,6 @@ namespace CraftingSystem
          
         }
 
-        public override string ToString() //Used CoPilot 
-        {
-            return $"\n-{ItemQuantity} x{ItemName} (${ItemPrice})";
-        }
 
     }
 }

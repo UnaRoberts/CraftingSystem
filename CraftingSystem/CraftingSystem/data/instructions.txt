@@ -1,0 +1,4 @@
+Welcome to the Potion Crafting Game!
+Please enter a name: 
+Press enter to view your stats!
+
